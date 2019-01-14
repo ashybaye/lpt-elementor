@@ -1,17 +1,17 @@
 # Elementor Hello World Sample Plugin
 
-This is a sample plugin to demonstrate how you can write extentions (plugins) to add custom functionality to [Elementor](https://github.com/pojome/elementor/)
+TODO - This is a sample plugin to demonstrate how you can write extentions (plugins) to add custom functionality to [Elementor](https://github.com/pojome/elementor/)
 
-Plugin Structure: 
+Plugin Structure:
 ```
 assets/
-      /js   
+      /js
       /css  Holds plugin CSS Files
-      
+
 widgets/
       /hello-world.php
       /inline-editing.php
-      
+
 index.php
 elementor-hello-world.php
 plugin.php
